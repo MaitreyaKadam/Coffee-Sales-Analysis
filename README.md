@@ -1,4 +1,4 @@
-## FCoffee Sales Analysis 📈
+## Coffee Sales Analysis 📈
 
 🚀 Overview 
 - This project focuses on the design and development of a dashboard to monitor and evaluate the sales performance of a coffee business across multiple store locations. This analysis processed over 11k orders to track key performance metrics such as total sales revenue, average order value, and daily transaction volume. This project provides a breakdown of product category success, identifies the most popular individual product type, and analyzes temporal sales patterns to distinguish between weekday and weekend performance.
@@ -10,12 +10,11 @@
 - Providing an interactive interface with dynamic filters to allow for granular performance reviews at individual store locations
 
 📌 Key Insights
-- The Holt-Winters multiplicative method provided the most accurate solar radiation forecast, achieving the lowest MASE score among the models tested.
+- Analyzed 11K total orders to identify that weekday transactions drive nearly 77% of the revenue which can be used to implement targeted marketing strategies.
+- By visualizing the top 5 product types and revenue by category, it can be identified that 'Brewed Chai Tea' and 'Barista Espresso' are key sales leaders.
+- Delivered a stakeholder ready dashboard in PowerBI which transforms raw data into clear narratives on store performance.
   
-  <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/856e59f1-5bf8-454a-bc2c-ea87d86b869d" />
-  <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/5e7a02ec-d10e-426b-b584-f8282741a6b7" />
-- The correlation between Melbourne PPI and Population Change was found to be spurious. Using Prewhitening and stationarity techniques, no significant correlation remained.
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/e812a68f-40ef-470f-8728-4c7165e408f8" />
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/f191bd5a-7309-429f-b794-ab877d7be238" />
+<img width="1392" height="780" alt="image" src="https://github.com/user-attachments/assets/2cc3c374-acec-44f4-8706-01a45bc447d4" />
+
 
 
